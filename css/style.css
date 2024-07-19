@@ -71,7 +71,7 @@ body {
 
 /*header section*/
 .hero_area {
-  height: 65vh;
+  height: 100vh;
   background-color: #b5caee;
   background-image: url(../images/finalWhite.png);
   background-size: cover;
@@ -187,7 +187,7 @@ a:focus {
 
 /*end header section*/
 .slider_section {
-  height: 90%;
+  height: 70%;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
