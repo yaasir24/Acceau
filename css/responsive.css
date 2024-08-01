@@ -1,6 +1,7 @@
 @media (max-width: 1120px) {
     .hero_area {
         height: auto;
+        background-position: 515px;
     }
 
     .slider_section {
